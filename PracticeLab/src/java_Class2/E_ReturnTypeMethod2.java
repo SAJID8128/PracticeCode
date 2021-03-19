@@ -15,8 +15,8 @@ public class E_ReturnTypeMethod2 {
 	public static void main(String[] args) {
 		
 		int x = empInfo();
-		System.out.println(x);		
-		
+		System.out.println(x);	
+				
 	}
 
 }
