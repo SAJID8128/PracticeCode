@@ -1,6 +1,6 @@
 package java_Class3;
 
-public class PublicModifier {
+public class B_PublicModifier {
 	
 	int num = 8128;
 	

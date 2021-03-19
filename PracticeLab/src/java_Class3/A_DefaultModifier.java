@@ -1,6 +1,6 @@
 package java_Class3;
 
-public class DefaultModifier {
+public class A_DefaultModifier {
 
 		
 static class DefaultOne {
